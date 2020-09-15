@@ -7,7 +7,7 @@
 
 import Foundation
 
-class NetworkManeger: ObservableObject {
+class NetworkManager: ObservableObject {
     
     @Published var posts = [Post]()
     
